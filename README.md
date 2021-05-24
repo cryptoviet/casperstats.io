@@ -1,15 +1,17 @@
 # casperstats.io's features development roadmap
 
-- Phase 1 (15th April - 15th May)
-- [x] Show blocks, block's data
-- [x] Show transfers, transfer's data
+
+- **Phase 1** (15th April - 15th May)
+- [x] Show  data of blocks
+- [x] Show data of transfers
 - [X] Display account's basic information
-- [x] Show validators, validator's information
+- [x] Show validator's information
 - [X] Enable dynamic search
 - [X] Fix critical bugs
 
-- Phase 2 (15th May - June)
-- [ ] Show list holders
+
+- **Phase 2** (15th May - June)
+- [ ] Show list CSPR coin holders
 - [ ] View rich list
 - [ ] Transfer volume
 - [ ] Trading volume
@@ -17,7 +19,8 @@
 - [ ] Show circle supply
 - [ ] Fix bugs
 
-- Phase 3 (June - July)
+
+- **Phase 3** (June - July)
 - [ ] Enable user register account to update validator information, know account...
 - [ ] Public APIs (discussing)
 - [ ] Open-source (considering)
