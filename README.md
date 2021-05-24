@@ -1,5 +1,6 @@
 # casperstats.io's features development roadmap
 
+---
 
 - **Phase 1** (15th April - 15th May)
 - [x] Show  data of blocks
@@ -9,6 +10,7 @@
 - [X] Enable dynamic search
 - [X] Fix critical bugs
 
+---
 
 - **Phase 2** (15th May - June)
 - [ ] Show list CSPR coin holders
@@ -19,6 +21,7 @@
 - [ ] Show circle supply
 - [ ] Fix bugs
 
+---
 
 - **Phase 3** (June - July)
 - [ ] Enable user register account to update validator information, know account...
