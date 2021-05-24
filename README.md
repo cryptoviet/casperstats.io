@@ -15,9 +15,9 @@
 - **Phase 2** (15th May - June)
 - [ ] Show list CSPR coin holders
 - [ ] View rich list
-- [ ] Transfer volume
-- [ ] Trading volume
-- [ ] Account's deploy hashes and account's transfer hashes
+- [ ] Display transfer volume
+- [ ] Display trading volume
+- [ ] Show Account's deploy hashes and account's transfer hashes
 - [ ] Show circle supply
 - [ ] Fix bugs
 
@@ -28,3 +28,7 @@
 - [ ] Public APIs (discussing)
 - [ ] Open-source (considering)
 - [ ] Add more features from community demand
+
+---
+
+CasperStats.io started from the idea of building the blockchain explorer for the community therefore we are very welcome to anyone who gives us feedback, ideas. We are happy to build with you.
