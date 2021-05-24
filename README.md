@@ -1,4 +1,4 @@
-# casperstats.io's features development roadmap
+# casperstats.io's development roadmap
 
 ---
 
