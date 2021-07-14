@@ -13,21 +13,21 @@
 ---
 
 - **Phase 2** (15th May - June)
-- [ ] Show list CSPR coin holders
-- [ ] View rich list
-- [ ] Display transfer volume
+- [X] Show list CSPR coin holders
+- [X] View rich list
+- [X] Display transfer volume
 - [ ] Display trading volume
-- [ ] Show Account's deploy hashes and account's transfer hashes
-- [ ] Show circle supply
-- [ ] Fix bugs
+- [X] Show Account's deploy hashes and account's transfer hashes
+- [X] Show circle supply
+- [X] Fix bugs
 
 ---
 
 - **Phase 3** (June - July)
 - [ ] Enable user register account to update validator information, know account...
-- [ ] Public APIs (discussing)
-- [ ] Open-source (considering)
-- [ ] Add more features from community demand
+- [X] Public APIs (discussing)
+- [X] Open-source (considering)
+- [X] Add more features from community demand
 
 ---
 
